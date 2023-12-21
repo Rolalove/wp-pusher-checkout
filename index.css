@@ -16,7 +16,6 @@ nav {
       padding: 10px 30px 0px 30px;
 }
 .links{
-      color: #1D2C3C;
       font-size: 14px;
       font-style: normal;
       font-weight: 700;
@@ -26,6 +25,7 @@ nav {
 .links a{
       text-decoration: none;
       margin-left: 20px;
+      color: #1D2C3C;
 }
 .acc{
       border-radius: 6px;
